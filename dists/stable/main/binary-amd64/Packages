@@ -5,10 +5,10 @@ Maintainer: Henri Lefebvre
 Installed-Size: 11421
 Depends: libc6 (>= 2.31), libstdc++6
 Filename: ./idol-MacOSX-linux.deb
-Size: 2672658
-MD5sum: 7e8b80b8d0218a2c94f70534eab86bf4
-SHA1: e1355b6e593d584fe15d8804e9fc539b9b4267b8
-SHA256: 3771c5df6a10c1fea78e6fd7bab146059a487dafffafee03e81d567e52f559f4
+Size: 2672662
+MD5sum: cc9a59f67749c2704e8e32638f3fa4a3
+SHA1: 76816f76e8f965ec47cb3a1cdec5b4d3f17bc2b9
+SHA256: 2cfcd6a3f5854f8399474bff09fa848161fcdc9452dbcd59a6fe71250207fd5b
 Section: libs
 Priority: optional
 Description: idol, a C++ framework for optimization
