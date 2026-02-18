@@ -1,0 +1,15 @@
+Package: idol
+Version: 0.8.0
+Architecture: amd64
+Maintainer: Henri Lefebvre
+Installed-Size: 11421
+Depends: libc6 (>= 2.31), libstdc++6
+Filename: ./idol-MacOSX-linux.deb
+Size: 2672658
+MD5sum: 7e8b80b8d0218a2c94f70534eab86bf4
+SHA1: e1355b6e593d584fe15d8804e9fc539b9b4267b8
+SHA256: 3771c5df6a10c1fea78e6fd7bab146059a487dafffafee03e81d567e52f559f4
+Section: libs
+Priority: optional
+Description: idol, a C++ framework for optimization
+
