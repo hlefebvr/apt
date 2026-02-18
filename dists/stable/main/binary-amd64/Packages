@@ -4,11 +4,11 @@ Architecture: amd64
 Maintainer: Henri Lefebvre
 Installed-Size: 11421
 Depends: libc6 (>= 2.31), libstdc++6
-Filename: ./idol-MacOSX-linux.deb
-Size: 2672662
-MD5sum: cc9a59f67749c2704e8e32638f3fa4a3
-SHA1: 76816f76e8f965ec47cb3a1cdec5b4d3f17bc2b9
-SHA256: 2cfcd6a3f5854f8399474bff09fa848161fcdc9452dbcd59a6fe71250207fd5b
+Filename: ./idol_MacOSX_amd64.deb
+Size: 2672652
+MD5sum: 6ad20c8d7d2d6019a520f18c1d1a22ab
+SHA1: 641aae50e331b5ce9ca406455e4c09d7c306d277
+SHA256: ece1fc0637b86fa57ac697e8911da3403a5bf9a06ec841222b0f46513061989f
 Section: libs
 Priority: optional
 Description: idol, a C++ framework for optimization
