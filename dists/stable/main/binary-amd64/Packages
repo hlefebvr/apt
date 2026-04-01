@@ -5,10 +5,10 @@ Maintainer: Henri Lefebvre
 Installed-Size: 47598
 Depends: libc6 (>= 2.31), libstdc++6
 Filename: dists/stable/main/binary-amd64/idol_0.9.0_amd64.deb
-Size: 7977334
-MD5sum: 780e16b7e77a67f442e2ec8c9366ae67
-SHA1: ac4101e5e87b9faa3a07c3d70bd77d14ba8f4b2b
-SHA256: cefcba15ffad29f442947e5bac6b10138fac0ed150b14ca90b35814ce92fd08b
+Size: 7977738
+MD5sum: 055bf2fb8468512c0495b86a1d6609f1
+SHA1: e6b5ac76aa431ca96d0cf0eb59073996e2d9511e
+SHA256: ae190de8a776cd5945232e5a30a43b4612aea2869f7e49ec4dbcf5b05a4d7003
 Section: libs
 Priority: optional
 Description: idol, a C++ framework for optimization
